@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/shot-clock-oracle/static/css/main.7a5bde85.css",
+    "main.js": "/shot-clock-oracle/static/js/main.ad094f07.js",
+    "static/media/Basketball.png": "/shot-clock-oracle/static/media/Basketball.10dd6782c74e0536cd74.png",
+    "index.html": "/shot-clock-oracle/index.html",
+    "main.7a5bde85.css.map": "/shot-clock-oracle/static/css/main.7a5bde85.css.map",
+    "main.ad094f07.js.map": "/shot-clock-oracle/static/js/main.ad094f07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a5bde85.css",
+    "static/js/main.ad094f07.js"
+  ]
+}
